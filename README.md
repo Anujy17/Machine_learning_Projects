@@ -1,3 +1,3 @@
 # Machine_learning_Projects
 
-Here i have uploaded all my Machine learning projects
+This repository contains all my machine learning projects from ineuron.ai
